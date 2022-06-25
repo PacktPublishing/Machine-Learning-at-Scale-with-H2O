@@ -1,5 +1,4 @@
 # Chapter 9: Production Scoring and the H2O MOJO
-Below are instructions to run the BatchFileScorer and Inspect MOJO programs shown in this chapter.
 
 ## BatchFileScorer
 
