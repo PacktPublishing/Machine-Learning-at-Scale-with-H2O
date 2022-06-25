@@ -5,7 +5,7 @@ import hex.genmodel.easy.EasyPredictModelWrapper;
 import hex.genmodel.easy.prediction.*;
 import hex.genmodel.MojoModel;
 
-public class H2OBatchFileScorer {
+public class BatchFileScorer {
 	
 	
 	public static void main(String[] args) throws Exception{
