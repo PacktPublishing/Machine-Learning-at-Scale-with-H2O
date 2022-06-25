@@ -3,6 +3,8 @@ Below are instructions to run the BatchFileScorer and Inspect MOJO programs show
 
 ## BatchFileScorer
 
+In this exercise we developed a Java program to show how to embed in a java program the MOJO runtime to perform batch scoring using the MOJO exported from the model built in Chapter 8.
+
 ### Contents
 * ***BatchFileScorer.jar:*** jar compiled from our Java program in /src and the H2O MOJO runtime in /lib
 * ***final_mojo.zip:*** MOJO scorer artifact exported from model building exercise in Chapter 8.
@@ -25,8 +27,10 @@ Notes
 
 ## Inspect MOJO
 
+In this exercise we leverage the the MOJO runtime capability of inspecting tree details of the MOJO exported from the model built in Chapter 8.
+
 ### Contents
-* ***BatchFileScorer.jar:*** copy of same for BatchFileScorer
+* ***h2o-genmodel.jar:*** copy of same for BatchFileScorer (in /lib directory)
 * ***final_mojo.zip:*** copy of same for BatchFileScorer
 
 ### Run
