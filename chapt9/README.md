@@ -2,7 +2,7 @@
 
 ## BatchFileScorer
 
-In this exercise showed how to embed the MOJO and its runtime in a Java program.  The MOJO used here was exported from the model built in Chapter 8.  (Recall the MOJO runtime is generic to all exported MOJOs).
+In this exercise we showed how to embed the MOJO and its runtime in a Java program.  The MOJO used here was exported from the model built in Chapter 8.  (Recall the MOJO runtime is generic to all exported MOJOs).
 
 ### Contents
 * ***BatchFileScorer.jar:*** jar compiled from our Java program in /src and the H2O MOJO runtime in /lib
